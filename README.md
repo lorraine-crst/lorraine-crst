@@ -1,16 +1,13 @@
-### Hi there 👋
+<img awidth="180%" align="right" height="180em" alt="lola-gif" src="https://cdn.discordapp.com/attachments/791329434783186954/881910262196748348/image0.gif">
 
-<!--
-**lorraine-crst/lorraine-crst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
+My name is Lorraine, extremely curious about how things work 🧠  
+ I am currently a systems development analysis and psychology student ✨
 
-Here are some ideas to get you started:
+## Skills 👩‍💻
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Most used languages ✨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorraine-crst&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/lorraine-crst/github-readme-stats)
