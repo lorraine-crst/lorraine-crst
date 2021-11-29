@@ -2,7 +2,7 @@
 
 ### Hi 👋
 My name is Lorraine, extremely curious about how things work 🧠  
- I am currently a systems development analysis and psychology student ✨
+ I am currently a systems development analysis ✨
 
 ## Skills 👩‍💻
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
