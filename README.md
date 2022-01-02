@@ -1,7 +1,7 @@
 <img awidth="180%" align="right" height="180em" alt="lola-gif" src="https://cdn.discordapp.com/attachments/791329434783186954/881910262196748348/image0.gif">
 
 ### Oii 👋
-Me chamo Lorraine, sou extremamente curiosa em como as coisas funcionam 🧠  
+Me chamo Lorraine, sou extremamente curiosa em saber como as coisas funcionam 🧠  
 Sou estudante de Análise e desenvolvimento de sistemas ✨
 
 ## Skills 👩‍💻
