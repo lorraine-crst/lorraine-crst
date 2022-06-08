@@ -4,6 +4,9 @@
 Me chamo Lorraine, sou extremamente curiosa em saber como as coisas funcionam 🧠  
 Sou estudante de Análise e desenvolvimento de sistemas ✨
 
+"If you believe in your dreams, I will prove to you, that you can achieve your dreams just by working hard."
+- Rock Lee 💚 
+
 ## Skills and Tools 👩‍💻
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
