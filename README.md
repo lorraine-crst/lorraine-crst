@@ -1,5 +1,3 @@
-
-### Oii 👋
 Me chamo Lorraine, sou extremamente curiosa em saber como as coisas funcionam 🧠  
 Sou estudante de Análise e desenvolvimento de sistemas ✨
 
@@ -13,7 +11,3 @@ Sou estudante de Análise e desenvolvimento de sistemas ✨
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=purple)
-
-
-## Most used languages ✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorraine-crst&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/lorraine-crst/github-readme-stats)
